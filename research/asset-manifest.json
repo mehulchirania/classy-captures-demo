@@ -1,0 +1,328 @@
+{
+  "generatedFrom": "https://classycaptures.com",
+  "heroRecommendation": "hero-wedding-ceremony",
+  "assets": [
+    {
+      "key": "hero-wedding-ceremony",
+      "file": "/images/hero-wedding-ceremony.webp",
+      "category": "wedding",
+      "role": "hero",
+      "sourcePage": "https://classycaptures.com/weddings/",
+      "sourceUrl": "https://classycaptures.com/wp-content/uploads/2025/11/DSC08826-scaled.jpg",
+      "originalDimensions": {
+        "width": 2560,
+        "height": 1707
+      },
+      "dimensions": {
+        "width": 1600,
+        "height": 1067
+      }
+    },
+    {
+      "key": "wedding-joyful-ritual",
+      "file": "/images/wedding-joyful-ritual.webp",
+      "category": "wedding",
+      "role": "featured",
+      "sourcePage": "https://classycaptures.com/weddings/",
+      "sourceUrl": "https://classycaptures.com/wp-content/uploads/2025/11/DSC09512-1-scaled.jpg",
+      "originalDimensions": {
+        "width": 2560,
+        "height": 1668
+      },
+      "dimensions": {
+        "width": 1600,
+        "height": 1043
+      }
+    },
+    {
+      "key": "wedding-rice-blessing",
+      "file": "/images/wedding-rice-blessing.webp",
+      "category": "wedding",
+      "role": "gallery",
+      "sourcePage": "https://classycaptures.com/weddings/",
+      "sourceUrl": "https://classycaptures.com/wp-content/uploads/2025/11/DSC09766-1-scaled.jpg",
+      "originalDimensions": {
+        "width": 1707,
+        "height": 2560
+      },
+      "dimensions": {
+        "width": 1067,
+        "height": 1600
+      }
+    },
+    {
+      "key": "wedding-bride-purple",
+      "file": "/images/wedding-bride-purple.webp",
+      "category": "wedding",
+      "role": "gallery",
+      "sourcePage": "https://classycaptures.com/weddings/",
+      "sourceUrl": "https://classycaptures.com/wp-content/uploads/2025/12/01-1.jpg",
+      "originalDimensions": {
+        "width": 1600,
+        "height": 2000
+      },
+      "dimensions": {
+        "width": 1280,
+        "height": 1600
+      }
+    },
+    {
+      "key": "wedding-temple-portrait",
+      "file": "/images/wedding-temple-portrait.webp",
+      "category": "wedding",
+      "role": "gallery",
+      "sourcePage": "https://classycaptures.com/weddings/",
+      "sourceUrl": "https://classycaptures.com/wp-content/uploads/2025/12/02-1.jpg",
+      "originalDimensions": {
+        "width": 1600,
+        "height": 2000
+      },
+      "dimensions": {
+        "width": 1280,
+        "height": 1600
+      }
+    },
+    {
+      "key": "wedding-monochrome-collage",
+      "file": "/images/wedding-monochrome-collage.webp",
+      "category": "wedding",
+      "role": "gallery",
+      "sourcePage": "https://classycaptures.com/weddings/",
+      "sourceUrl": "https://classycaptures.com/wp-content/uploads/2025/12/11-2.jpg",
+      "originalDimensions": {
+        "width": 1600,
+        "height": 2000
+      },
+      "dimensions": {
+        "width": 1280,
+        "height": 1600
+      }
+    },
+    {
+      "key": "wedding-couple-seated",
+      "file": "/images/wedding-couple-seated.webp",
+      "category": "wedding",
+      "role": "gallery",
+      "sourcePage": "https://classycaptures.com/weddings/",
+      "sourceUrl": "https://classycaptures.com/wp-content/uploads/2025/12/13-1.jpg",
+      "originalDimensions": {
+        "width": 1600,
+        "height": 2000
+      },
+      "dimensions": {
+        "width": 1280,
+        "height": 1600
+      }
+    },
+    {
+      "key": "prewedding-henna-detail",
+      "file": "/images/prewedding-henna-detail.webp",
+      "category": "pre-wedding",
+      "role": "gallery",
+      "sourcePage": "https://classycaptures.com/pre-wedding/",
+      "sourceUrl": "https://classycaptures.com/wp-content/uploads/2025/12/DSCF6036-scaled.jpg",
+      "originalDimensions": {
+        "width": 1707,
+        "height": 2560
+      },
+      "dimensions": {
+        "width": 1067,
+        "height": 1600
+      }
+    },
+    {
+      "key": "prewedding-close-embrace",
+      "file": "/images/prewedding-close-embrace.webp",
+      "category": "pre-wedding",
+      "role": "featured",
+      "sourcePage": "https://classycaptures.com/pre-wedding/",
+      "sourceUrl": "https://classycaptures.com/wp-content/uploads/2025/12/DSCF6220-scaled.jpg",
+      "originalDimensions": {
+        "width": 1707,
+        "height": 2560
+      },
+      "dimensions": {
+        "width": 1067,
+        "height": 1600
+      }
+    },
+    {
+      "key": "prewedding-intimate-portrait",
+      "file": "/images/prewedding-intimate-portrait.webp",
+      "category": "pre-wedding",
+      "role": "gallery",
+      "sourcePage": "https://classycaptures.com/pre-wedding/",
+      "sourceUrl": "https://classycaptures.com/wp-content/uploads/2025/12/DSCF6307-1-scaled.jpg",
+      "originalDimensions": {
+        "width": 1707,
+        "height": 2560
+      },
+      "dimensions": {
+        "width": 1067,
+        "height": 1600
+      }
+    },
+    {
+      "key": "prewedding-forest-couple",
+      "file": "/images/prewedding-forest-couple.webp",
+      "category": "pre-wedding",
+      "role": "category",
+      "sourcePage": "https://classycaptures.com/pre-wedding/",
+      "sourceUrl": "https://classycaptures.com/wp-content/uploads/2025/12/DSCF6412-2-scaled.jpg",
+      "originalDimensions": {
+        "width": 1707,
+        "height": 2560
+      },
+      "dimensions": {
+        "width": 1067,
+        "height": 1600
+      }
+    },
+    {
+      "key": "prewedding-riverside-couple",
+      "file": "/images/prewedding-riverside-couple.webp",
+      "category": "pre-wedding",
+      "role": "gallery",
+      "sourcePage": "https://classycaptures.com/pre-wedding/",
+      "sourceUrl": "https://classycaptures.com/wp-content/uploads/2025/12/DSCF6541-scaled.jpg",
+      "originalDimensions": {
+        "width": 1752,
+        "height": 2560
+      },
+      "dimensions": {
+        "width": 1095,
+        "height": 1600
+      }
+    },
+    {
+      "key": "portrait-groom-temple",
+      "file": "/images/portrait-groom-temple.webp",
+      "category": "portrait",
+      "role": "gallery",
+      "sourcePage": "https://classycaptures.com/potraits/",
+      "sourceUrl": "https://classycaptures.com/wp-content/uploads/2025/12/4.jpg",
+      "originalDimensions": {
+        "width": 1600,
+        "height": 2000
+      },
+      "dimensions": {
+        "width": 1280,
+        "height": 1600
+      }
+    },
+    {
+      "key": "portrait-window-silhouette",
+      "file": "/images/portrait-window-silhouette.webp",
+      "category": "portrait",
+      "role": "category",
+      "sourcePage": "https://classycaptures.com/potraits/",
+      "sourceUrl": "https://classycaptures.com/wp-content/uploads/2025/12/2-4.jpg",
+      "originalDimensions": {
+        "width": 1600,
+        "height": 2000
+      },
+      "dimensions": {
+        "width": 1280,
+        "height": 1600
+      }
+    },
+    {
+      "key": "portrait-bride-reflection",
+      "file": "/images/portrait-bride-reflection.webp",
+      "category": "portrait",
+      "role": "featured",
+      "sourcePage": "https://classycaptures.com/potraits/",
+      "sourceUrl": "https://classycaptures.com/wp-content/uploads/2025/12/01-3.jpg",
+      "originalDimensions": {
+        "width": 1350,
+        "height": 2400
+      },
+      "dimensions": {
+        "width": 900,
+        "height": 1600
+      }
+    },
+    {
+      "key": "portrait-bride-lamplight",
+      "file": "/images/portrait-bride-lamplight.webp",
+      "category": "portrait",
+      "role": "gallery",
+      "sourcePage": "https://classycaptures.com/potraits/",
+      "sourceUrl": "https://classycaptures.com/wp-content/uploads/2025/12/02-2.jpg",
+      "originalDimensions": {
+        "width": 1350,
+        "height": 2400
+      },
+      "dimensions": {
+        "width": 900,
+        "height": 1600
+      }
+    },
+    {
+      "key": "film-still-wedding-ritual",
+      "file": "/images/film-still-wedding-ritual.webp",
+      "category": "film",
+      "role": "category",
+      "sourcePage": "https://classycaptures.com/films/",
+      "sourceUrl": "https://classycaptures.com/wp-content/uploads/2025/11/DSC00047-scaled.jpg",
+      "originalDimensions": {
+        "width": 2560,
+        "height": 1747
+      },
+      "dimensions": {
+        "width": 1600,
+        "height": 1092
+      }
+    }
+  ],
+  "verifiedVideoSources": [
+    {
+      "url": "https://classycaptures.com/wp-content/uploads/2025/11/Website-classy-images-1.mp4",
+      "sourcePage": "https://classycaptures.com/films/",
+      "verifiedStatus": 200,
+      "contentType": "video/mp4",
+      "contentLength": 92366242,
+      "verifiedOn": "2026-09-26"
+    },
+    {
+      "url": "https://classycaptures.com/wp-content/uploads/2025/11/Website-classy-images-4.mp4",
+      "sourcePage": "https://classycaptures.com/films/",
+      "verifiedStatus": 200,
+      "contentType": "video/mp4",
+      "contentLength": 43588102,
+      "verifiedOn": "2026-09-26"
+    },
+    {
+      "url": "https://classycaptures.com/wp-content/uploads/2025/11/Ashutosh-Sathvika-Srikanth-wed-Teaser-HD.mp4",
+      "sourcePage": "https://classycaptures.com/films/",
+      "verifiedStatus": 200,
+      "contentType": "video/mp4",
+      "contentLength": 460524869,
+      "verifiedOn": "2026-09-26"
+    },
+    {
+      "url": "https://classycaptures.com/wp-content/uploads/2025/11/Wed-Story-03-1.mp4",
+      "sourcePage": "https://classycaptures.com/films/",
+      "verifiedStatus": 200,
+      "contentType": "video/mp4",
+      "contentLength": 2852440,
+      "verifiedOn": "2026-09-26"
+    },
+    {
+      "url": "https://classycaptures.com/wp-content/uploads/2025/11/Red-outfit-story-01-prewed.mp4",
+      "sourcePage": "https://classycaptures.com/films/",
+      "verifiedStatus": 200,
+      "contentType": "video/mp4",
+      "contentLength": 1842794,
+      "verifiedOn": "2026-09-26"
+    },
+    {
+      "url": "https://classycaptures.com/wp-content/uploads/2025/11/Pooja-and-Sourab-Teaser-1.mp4",
+      "sourcePage": "https://classycaptures.com/films/",
+      "verifiedStatus": 200,
+      "contentType": "video/mp4",
+      "contentLength": 172151303,
+      "verifiedOn": "2026-09-26"
+    }
+  ]
+}
